@@ -8,7 +8,8 @@ matched sample in for example Compustat/WRDS.
 4. Do some computational linguistic on corpus (LDA for example).
 
 ### How
-Run `$ make`
+1. Install requirements: `$ pip install -r requirements.txt`
+2. Run: `$ make`
 
 ### Example
 ```python
