@@ -9,7 +9,7 @@ matched sample in for example Compustat/WRDS.
 
 ### How
 1. Install requirements: `$ pip install -r requirements.txt`
-2. Run: `$ make`
+2. Run Make: `$ make`
 
 ### Example
 ```python
